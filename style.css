@@ -1,0 +1,19 @@
+body
+{
+    background-image: linear-gradient(45deg, #2BAE66FF 50%, #FCF6F5FF 50%);
+    border: 5px ridge yellowgreen;
+}
+
+div
+{
+    background-color: rgb(216, 244, 189);
+    font-weight: bolder;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 5px;
+}
+
+
+.container-sm
+{
+    border: 2px solid black;
+}
